@@ -1,0 +1,51 @@
+const topics = [
+  {
+    _id: "66531f1458df5a18b68ce0bd",
+    topicId: 1,
+    topic: "RWD",
+    topicDate: "2020-10-10"
+  },
+  {
+    _id: "66531f1458df5a18b68ce0be",
+    topicId: 2,
+    topic: "Bootstrap",
+    topicDate: "2020-10-11"
+  },
+  {
+    _id: "66531f1458df5a18b68ce0bf",
+    topicId: 3,
+    topic: "JS",
+    topicDate: "2020-10-17"
+  },
+  {
+    _id: "66531f1458df5a18b68ce0c0",
+    topicId: 4,
+    topic: "Async Programming",
+    topicDate: "2020-10-18"
+  },
+  {
+    _id: "66531f1458df5a18b68ce0c1",
+    topicId: 5,
+    topic: "React",
+    topicDate: "2020-10-24"
+  },
+  {
+    _id: "66531f1458df5a18b68ce0c2",
+    topicId: 6,
+    topic: "React-Redux",
+    topicDate: "2020-10-25"
+  },
+  {
+    _id: "66531f1458df5a18b68ce0c3",
+    topicId: 7,
+    topic: "MySQL",
+    topicDate: "2020-10-31"
+  },
+  {
+    _id: "66531f1458df5a18b68ce0c4",
+    topicId: 8,
+    topic: "MongoDB",
+    topicDate: "2020-11-01"
+  }
+];
+
